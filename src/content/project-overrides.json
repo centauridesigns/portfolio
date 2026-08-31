@@ -1,0 +1,12 @@
+{
+  "gruthopp-web-app": {
+    "detailsHtml": "<p>Gruthopp is a map and review platform developed for the Gruthopp team. It allows users to discover cafés across Oslo through an interactive map, with information on café type, opening hours, public transportation, outdoor seating, and sunlight conditions.</p><p>I developed the public interface alongside a protected administration system used to research, draft, review, and publish café entries. The application is built in Next.js and TypeScript, with Supabase handling authentication and database storage. It is deployed to Cloudflare Workers through OpenNext.</p>",
+    "role": "Developer",
+    "teamHtml": "<p>Souhail Ziani</p><p>David</p>",
+    "disciplinesHtml": "<p>Product design + frontend + backend</p>"
+  },
+  "tauri-grotesk": {
+    "detailsHtml": "<p>Tauri Grotesk is a neo-grotesque typeface designed in Glyphs 3 for OVERPAY. It takes inspiration from Helvetica and Neue Haas Grotesk, with several changes made to prevent it from becoming a direct reproduction of either typeface.</p><p>Characters such as <em>n</em>, <em>m</em>, and <em>h</em> feature angular corners where the stems and shoulders meet. These may appear similar to ink traps, but serve no functional purpose. They are intentionally visible and used as a recurring detail throughout the typeface.</p><p>The family consists of 18 styles; nine weights from Thin to Black, each with a corresponding italic. It contains roughly 400 glyphs, covering core Latin and Cyrillic alongside additional regional Latin characters.</p>",
+    "disciplinesHtml": "<p>Type design + typography</p>"
+  }
+}

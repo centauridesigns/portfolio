@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "gruthopp-web-app",
+    "name": "gruthopp web app",
+    "shortDescription": "Web application for the gruthopp team.",
+    "year": "2026",
+    "type": "73c395e337014444f750a0f011a8f50f",
+    "detailsHtml": "<p>Gruthopp is a map and review platform developed for the Gruthopp team. It allows users to discover cafés across Oslo through an interactive map, with information on café type, opening hours, public transportation, outdoor seating, and sunlight conditions.</p><p>I developed the public interface alongside a protected administration system used to research, draft, review, and publish café entries. The application is built in Next.js and TypeScript, with Supabase handling authentication and database storage. It is deployed to Cloudflare Workers through OpenNext.</p>",
+    "role": "Developer",
+    "teamHtml": "<p>Souhail Ziani</p><p>David</p>",
+    "disciplinesHtml": "<p>Product design + frontend + backend</p>",
+    "image": "/media/projects/gruthopp-web-app.jpg"
+  },
+  {
+    "slug": "tauri-grotesk",
+    "name": "Tauri Grotesk",
+    "shortDescription": "Grotesque typeface with 400 glyphs for OVERPAY.",
+    "year": "2025",
+    "type": "b1d49b67d3e369d469e780377a02e1c6",
+    "detailsHtml": "<p>Tauri Grotesk is a neo-grotesque typeface designed in Glyphs 3 for OVERPAY. It takes inspiration from Helvetica and Neue Haas Grotesk, with several changes made to prevent it from becoming a direct reproduction of either typeface.</p><p>Characters such as <em>n</em>, <em>m</em>, and <em>h</em> feature angular corners where the stems and shoulders meet. These may appear similar to ink traps, but serve no functional purpose. They are intentionally visible and used as a recurring detail throughout the typeface.</p><p>The family consists of 18 styles; nine weights from Thin to Black, each with a corresponding italic. It contains roughly 400 glyphs, covering core Latin and Cyrillic alongside additional regional Latin characters.</p>",
+    "role": "Typographer",
+    "teamHtml": "<p>Souhail Ziani</p>",
+    "disciplinesHtml": "<p>Type design + typography</p>",
+    "image": "/media/projects/tauri-grotesk.png"
+  },
+  {
+    "slug": "flysense",
+    "name": "flysense",
+    "shortDescription": "Android application for the detection of various stages during flight.",
+    "year": "2025",
+    "type": "73c395e337014444f750a0f011a8f50f",
+    "detailsHtml": "<p>Android application designed in conjunction with a Master's thesis at the University of Oslo. </p><p>flysense uses the accelerometer and barometer of a PED to determine whether the user is on-board an aircraft, and if so, which flight stage they happen to find themselves in through the usage of carefully-crafted algorithms.</p>",
+    "role": "Developer",
+    "teamHtml": "<p>Souhail Ziani</p><p>Mads Murvold</p>",
+    "disciplinesHtml": null,
+    "image": "/media/projects/flysense.png"
+  },
+  {
+    "slug": "mustaboard-mus",
+    "name": "mustaboard + mus",
+    "shortDescription": "Informational screen and login system for student association UiO Gaming.",
+    "year": "2024",
+    "type": "d3c6eea0818c8aa56d20ae7c5d2a4089",
+    "detailsHtml": "<p id=\"\">Bundle for UiO Gaming consisting of mustaboard, an informational screen for use in the student association's office, and mus (mustafa's user system), a login system designed to improve registration flow for new and existing members. Both are developed using the Next.js framework for React.</p>",
+    "role": null,
+    "teamHtml": "<p id=\"\">Souhail Ziani (developer and visual designer)</p><p id=\"\">Leander Furumo (developer)</p>",
+    "disciplinesHtml": "<p id=\"\">Frontend + backend + graphic design</p>",
+    "image": "/media/projects/mustaboard-mus.jpg"
+  },
+  {
+    "slug": "transit",
+    "name": "TRANSIT",
+    "shortDescription": "Counter-Strike skin collection.",
+    "year": "2024",
+    "type": "02557b30e58b0593f3f4bdca551f19e3",
+    "detailsHtml": "<p id=\"\">TRANSIT is a collaboration with talented Australian artist <em id=\"\">cimota.</em> Initially drafted as a retro skin, the finish was conceptualized with flowing lines across the finish in mind. Eventually, on the basis of my previous transit diagrams, the concept pivoted towards a visual representation of a fictitious train network consisting of Counter-Strike maps as stations.</p><p id=\"\">We established a design language early on to ensure consistency from skin to skin. Each skin features a set number of lines connecting the major maps in-game, with one central station and non-train connections between maps of varying transportation types. </p><p id=\"\">Each separate instance of the finish is, however, unique in its placement of maps. Maps are either clustered geographically or placed along the same line based on their real-life location, climate, or other common attributes.</p><p id=\"\">You can find the SSG-08 | TRANSIT in Counter-Strike 2's Gallery Case.</p><p id=\"\">‍</p>",
+    "role": "Visual artist",
+    "teamHtml": "<p id=\"\">Souhail Ziani (visual artist)</p><p id=\"\">cimota (technical artist)</p>",
+    "disciplinesHtml": "<p id=\"\">Graphic design + texture art</p>",
+    "image": "/media/projects/transit.png"
+  },
+  {
+    "slug": "uxcup-x-munch",
+    "name": "UXCUP x MUNCH",
+    "shortDescription": "Design case for MUNCH through UXCUP.",
+    "year": "2024",
+    "type": "d3c6eea0818c8aa56d20ae7c5d2a4089",
+    "detailsHtml": "<p id=\"\"><em id=\"\">Special thanks to the fine people at consultancy Bekk for their hosting of UXCUP and MUNCH for their incredibly interesting cases and constant enthusiasm through the competition.</em></p><p><strong>Problem</strong></p><p id=\"\">For UXCUP, six finalist teams were tasked with creating and presenting a design case for the MUNCH museum. Each case was concerned with three categories:&nbsp;the events page, the membership offer, and the audio guide. The design case revolved around increasing revisits to the museum - a large portion of people who visited the museum did not eturn. We spent three intense days gathering data, performing customer insight, and developing our case. This specifically included a survey with roughly 40 responses, two expert interviews, and an interview with a young adult.</p><p>We determined through our insight that MUNCH was missing a large customer base - young adults, whom were completely unaware that the museum was a center of culture, providing various events and temporary galleries, rather than exclusively showcasing MUNCH's old works. This leads to the incorrect assumption that one had experienced all the museum had to offer.</p><p>We centered our work around the human experience and consequently utilized affinity mapping and user journey mapping to validate our thoughts. Many of the troubles related to one's first visit at MUNCH, we discovered, was the lack of information present. Visitors were overwhelmed at the sheer scale of the museum, unaware of what it had to offer specifically upon entry.</p><p id=\"\"><strong id=\"\">Solution</strong></p><p>Our solution focuses on providing an interactive mobile interface, accessed primarily through a QR code scanned at entry. This interface provides a visual, diegetic representation of the museum, allowing for a rapid understanding of one's surroundings. (...)</p>",
+    "role": "Interaction designer",
+    "teamHtml": "<p id=\"\">Souhail Ziani (visual and interaction designer)</p><p id=\"\">Henrik H. (interaction designer)</p><p id=\"\">Eivind E. (interaction designer)</p>",
+    "disciplinesHtml": null,
+    "image": "/media/projects/uxcup-x-munch.png"
+  },
+  {
+    "slug": "overpay-the-definitive-guide-2",
+    "name": "OVERPAY: The Definitive Guide 2",
+    "shortDescription": "Compendium on all things technical on weapon finishes for Counter-Strike 2.",
+    "year": "2024",
+    "type": "f7fdabeb8b37819b176897646ff55191",
+    "detailsHtml": "<p>OVERPAY: The Definitive Guide (OVERPAY 2 or OP:TDG2 for short) is a follow-up to the CS:GO compendium of a roughly similar name. It was drafted following Valve's swap to the Source 2 engine, which brought significant changes to the finish-making process.</p><p>Its interior design is inspired by the Swiss Style.</p><p>You can learn more about the guide in the coming months.</p>",
+    "role": "Author and designer",
+    "teamHtml": null,
+    "disciplinesHtml": null,
+    "image": "/media/projects/overpay-the-definitive-guide-2.png"
+  },
+  {
+    "slug": "dhis2",
+    "name": "DHIS2 Health Platform",
+    "shortDescription": "Medical store management platform.",
+    "year": "2023",
+    "type": "d3c6eea0818c8aa56d20ae7c5d2a4089",
+    "detailsHtml": "<p id=\"\">DHIS2 is an open-source collaborative software platform for health data. It is a collaboration between HISP and UiO.</p><p id=\"\">In relation to a course at the University of Oslo (IN5320), we were tasked with the development of a robust, user-friendly medical store management platform for a fictitious organization. The team, consisting of two developers (myself included) and two designers, adopted Scrumban as a methodology for a well-organized workflow, conducting three stand-ups each week.</p><p>Much of the process involved user testing to better understand the needs of the alleged customer - a health worker with little technical knowledge. Throughout the project, I was responsible for development of the front- and backend.</p>",
+    "role": "Front- and backend developer",
+    "teamHtml": "<p id=\"\">Souhail Ziani (developer)</p><p id=\"\">Mads Murvold (developer)</p><p id=\"\">Henrik Henriksen (designer)</p><p id=\"\">Eivind Eckhoff (designer)</p>",
+    "disciplinesHtml": "<p id=\"\">Frontend + Backend + Interaction design</p>",
+    "image": "/media/projects/dhis2.jpg"
+  },
+  {
+    "slug": "vaerklar",
+    "name": "Værklar",
+    "shortDescription": "Weather-recommendation application.",
+    "year": "2022",
+    "type": null,
+    "detailsHtml": "<p id=\"\">Android application. Provides clothing recommendations based on a multitude of weather aspects (temperature, precipitation, wind, time of day). UI/UX and backend.</p><p id=\"\">Designed in conjunction with a team of six students over one semester, Værklar utilizes a Norwegian Yr API (currently deprecated)&nbsp;to extract weather information. The intent behind the application comes from the daily frustrations of trying to factor in, among other factors, humidity and wind when dressing up. </p><p id=\"\">Safeguarding one-self from weather events later in the day (...).</p>",
+    "role": "Front- and backend developer",
+    "teamHtml": "<p id=\"\">Souhail Ziani (developer)</p><p id=\"\">Mads Murvold (developer)</p><p id=\"\">Henrik Henriksen (designer)</p><p id=\"\">Mathias Morsund (designer)</p><p id=\"\">Leander Furumo (developer)</p><p id=\"\">Petter Sæterøy (developer)</p>",
+    "disciplinesHtml": null,
+    "image": "/media/projects/vaerklar.png"
+  },
+  {
+    "slug": "the-definitive-guide-on-the-weapon-finish",
+    "name": "The Definitive Guide on the Weapon Finish",
+    "shortDescription": "Compendium on all things technical on weapon finishes in Counter-Strike: Global Offensive.",
+    "year": "2020",
+    "type": "f7fdabeb8b37819b176897646ff55191",
+    "detailsHtml": "<p id=\"\">The Definitive Guide on the Weapon Finish is a comprehensive compendium on weapon finishes in Counter-Strike: Global Offensive. It was made for finish creators and skins enthusiasts, featuring three chapters; technicals, practicals, and socials, each intended to shed light on a separate part related to weapon finish creation.</p><p>I designed it to be a combination of educational and visually engaging, including high-quality illustrations. The compendium borrows its primary colors from the Steam Workshop blue.</p><p>Testing was conducted with experienced finish creators and CS:GO players with limited knowledge on skins to establish certain baselines. Visually, the guide has been redesigned three times after release, steadily incorporating a few elements from the Swiss Style for each iteration. It features a consistent, albeit complicated (not complex)&nbsp;design language.</p><p>In two separate instances, respectively 2021 and 2022, Valve officially referenced the compendium as a primary source for knowledge on finish creation.</p>",
+    "role": "Author and designer",
+    "teamHtml": "<p>Souhail Ziani (as Centauri)</p>",
+    "disciplinesHtml": "<p id=\"\">Editorial design + graphic design</p>",
+    "image": "/media/projects/the-definitive-guide-on-the-weapon-finish.png"
+  }
+]
