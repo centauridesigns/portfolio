@@ -118,6 +118,25 @@ img { display: block; width: 100%; height: auto; }
   transition: transform .55s cubic-bezier(.2,.7,.2,1);
 }
 .project-image:hover img { transform: scale(1.015); }
+
+/* Cards roll over an imaginary drum: tilt in from below, flatten at rest, tilt away as they leave the top. */
+@supports (animation-timeline: view()) {
+  .project-list { perspective: 1600px; }
+  .project-card {
+    transform-origin: 50% 0%;
+    animation: card-in linear both, card-out linear both;
+    animation-timeline: view(), view();
+    animation-range: entry 0% cover 45%, exit 0% exit 100%;
+  }
+  @keyframes card-in {
+    from { opacity: .35; transform: translateY(3rem) scale(.9) rotateX(-16deg); transform-origin: 50% 100%; }
+    to { opacity: 1; transform: none; transform-origin: 50% 100%; }
+  }
+  @keyframes card-out {
+    from { opacity: 1; transform: none; }
+    to { opacity: .4; transform: translateY(2rem) scale(.86) rotateX(14deg); }
+  }
+}
 .project-meta {
   display: grid;
   grid-template-columns: 40% 1fr auto;
@@ -197,4 +216,5 @@ img { display: block; width: 100%; height: auto; }
   html { scroll-behavior: auto; }
   .page-transition { animation: none; }
   .project-image img { transition: none; }
+  .project-card { animation: none; }
 }
